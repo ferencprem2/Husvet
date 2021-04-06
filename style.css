@@ -1,0 +1,30 @@
+body {
+    background-image: url(fú.jpg);
+    background-repeat: round;
+}
+
+.col-sm-8 {
+    font-size: 10px;
+    color: white;
+    padding-top: 40px;
+}
+
+.nyul {
+    height: 200px;
+    width: 50px;
+}
+
+#vas {
+    height: 250px;
+    width: 300px;
+    padding-left: 50px;
+}
+
+img {
+    padding: 20px;
+}
+
+#ker {
+    height: 200px;
+    width: 250px;
+}
